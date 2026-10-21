@@ -257,16 +257,5 @@ The model classifies activity as `HUMAN` or `USB_DUCKY`. Security rules also ide
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contributing
 
-1. Create a feature branch.
-2. Test changes on a non-critical device.
-3. Keep `.env` credentials and private device information out of commits.
-4. Include platform details and test steps in pull requests.
-
-```bash
-git checkout -b feature/your-change
-git add .
-git commit -m "Describe your change"
-git push origin feature/your-change
 ```
